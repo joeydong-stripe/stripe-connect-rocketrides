@@ -1,9 +1,0 @@
-{
-  "commitish" : "v11.0.0",
-  "iOS" : [
-    {
-      "hash" : "e586d336ff825fcf326b7e3dd8cf781a21f64df9eb3eb9db0c90fa7425ef7957",
-      "name" : "Stripe"
-    }
-  ]
-}
