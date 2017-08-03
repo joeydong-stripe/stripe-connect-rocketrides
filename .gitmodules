@@ -1,0 +1,6 @@
+[submodule "Carthage/Checkouts/Alamofire"]
+	path = ios/Carthage/Checkouts/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "Carthage/Checkouts/stripe-ios"]
+	path = ios/Carthage/Checkouts/stripe-ios
+	url = https://github.com/stripe/stripe-ios.git

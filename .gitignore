@@ -8,7 +8,7 @@ config.js
 xcuserdata/
 
 # Carthage
-Carthage/Checkouts
+Carthage/Build
 
 # Logs
 logs
